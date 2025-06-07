@@ -69,7 +69,7 @@ Before you begin Chapter 1, create the file we will be working in.
 
 1.  Open your text editor (like VS Code, Sublime Text, or even Notepad).
 2.  Create a new, empty file.
-3.  Go to `File > Save As...` and name the file **`ebay-clone.html`**.
+3.  Go to `File > Save As...` and name the file **`ebayclone.html`**.
     - Make sure the name ends with **`.html`**.
 
 You're ready to begin your journey into web development!

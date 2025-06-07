@@ -20,6 +20,7 @@ _A Step-by-Step Guide for Young Web Developers_
 ## 🎯 What We're Building
 
 Imagine you're building a LEGO house, but instead of plastic bricks, we're using computer code! We're going to build a website that looks just like an eBay product page—a place where people buy and sell things online.
+**➡️ [Click here to start: Welcome](./welcome.md)**
 
 **What our website will have:**
 
